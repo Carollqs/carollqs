@@ -1,5 +1,3 @@
-    <img  src="https://github.com/Carollqs/carollqs/assets/147005226/61453909-ec68-418b-ba2c-6017242b2c58" width="500px" height="180" >
-
 
 ## 💜Seja bem-vindo(a), é um prazer! 👋  
 </br>
