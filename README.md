@@ -1,9 +1,16 @@
-## Seja bem-vindo(a), é um prazer! 👋
+ <img  src="https://github.com/Carollqs/carollqs/assets/147005226/61453909-ec68-418b-ba2c-6017242b2c58" width="500px" height="180" >
 
 
+## 💜Seja bem-vindo(a), é um prazer! 👋  
+</br>
 
-![hello](https://github.com/Carollqs/carollqs/assets/147005226/61453909-ec68-418b-ba2c-6017242b2c58)
 
+#### ✨ Me chamo Sara Carolina, sou apaixonada por aprender, super curiosa e adoro um desafio! Por esse motivo estou sempre em busca de ampliar meus conhecimentos e de novos aprendizados. Aprendo rápido e com facilidade. 
+ <img src="banner (1).gif" width="345px" align="left" > 
+
+#### 👩‍💻📚 Estou cursando o 3° semestre de Análise e Desenvolvimento de Sistemas na Fatec. Concluí em dez/2022 o Técnico em Desenvolvimento de Sistemas e em Administração- EAD pela Etec Fernandes Prestes. Por meio destes tenho conhecimentos básicos a intermediários em lógica e linguagens de programação, criação de sites, banco de dados e afins.
+
+#### 🔎 Estou interessada em vagas que me desafiem e ampliem meus conhecimentos nesta vasta área que é ADS. Me comprometo a aprender e agregar valor à equipe. 
 
 
 
