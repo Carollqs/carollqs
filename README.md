@@ -1,6 +1,9 @@
 ## Seja bem-vindo(a), é um prazer! 👋
 
- ### Olá, sou a  Carolina!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Woman Technologist Medium Skin Tone" width="25" height="25" />
+
+
+![hello](https://github.com/Carollqs/carollqs/assets/147005226/61453909-ec68-418b-ba2c-6017242b2c58)
+
 
 
 
